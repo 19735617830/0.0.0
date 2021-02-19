@@ -18,6 +18,8 @@ namespace WebApplication2.Controllers
 			//王豪杰
 			ViewBag.Message = "Your application description page.";
 
+
+			//找啊找啊找朋友
 			return View();
 		}
 
